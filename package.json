@@ -1,0 +1,18 @@
+{
+  "name": "tuhi-server",
+  "description": "Tuhi Server: simple self-hosted server for synchronized notes",
+  "version": "0.0.1",
+  "license": "AGPL-3.0+",
+  "author": "icasdri",
+  "homepage": "https://github.com/icasdri/tuhi-server",
+  "repository": {"type": "git", "url": "git+https://github.com/icasdri/tuhi-server.git"},
+  "bugs": {"url": "https://github.com/icasdri/tuhi-server/issues"},
+  "keywords": ["tuhi", "notes", "sync", "self-hosted"],
+  "private": false,
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.13.4",
+    "sequelize": "^3.19.3"
+  },
+  "devDependencies": {}
+}
