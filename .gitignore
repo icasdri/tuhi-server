@@ -1,3 +1,10 @@
+# Swap files
+*.swp
+
+# Database files
+*.db
+*.sqlite
+
 # Logs
 logs
 *.log
